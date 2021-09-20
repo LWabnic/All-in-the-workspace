@@ -1113,3 +1113,41 @@
 2021-09-20 16:39:07,268 [Worker-289: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laure\OneDrive - Idest Soft\Desktop\QA\JAVA SYNTAX\WEEK 2\ForkedMaven\TDD-Ex\src\main\resources
 2021-09-20 16:39:07,273 [Worker-289: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-09-20 16:39:07,274 [Worker-289: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laure\OneDrive - Idest Soft\Desktop\QA\JAVA SYNTAX\WEEK 2\ForkedMaven\TDD-Ex\src\test\resources
+2021-09-20 17:18:58,690 [Worker-293: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-20 17:18:58,702 [Worker-293: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laure\OneDrive - Idest Soft\Desktop\QA\JAVA SYNTAX\WEEK 2\ForkedMaven\TDD-Ex\src\main\resources
+2021-09-20 17:18:58,704 [Worker-293: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-20 17:18:58,705 [Worker-293: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laure\OneDrive - Idest Soft\Desktop\QA\JAVA SYNTAX\WEEK 2\ForkedMaven\TDD-Ex\src\test\resources
+2021-09-20 17:26:36,928 [Worker-299: Launching QuestionTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-20 17:26:36,950 [Worker-299: Launching QuestionTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laure\OneDrive - Idest Soft\Desktop\QA\JAVA SYNTAX\WEEK 2\ForkedMaven\TDD-Ex\src\main\resources
+2021-09-20 17:26:36,952 [Worker-299: Launching QuestionTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-20 17:26:36,953 [Worker-299: Launching QuestionTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laure\OneDrive - Idest Soft\Desktop\QA\JAVA SYNTAX\WEEK 2\ForkedMaven\TDD-Ex\src\test\resources
+2021-09-20 17:27:20,235 [Worker-295: Launching QuestionTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-20 17:27:20,236 [Worker-295: Launching QuestionTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laure\OneDrive - Idest Soft\Desktop\QA\JAVA SYNTAX\WEEK 2\ForkedMaven\TDD-Ex\src\main\resources
+2021-09-20 17:27:20,240 [Worker-295: Launching QuestionTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-20 17:27:20,241 [Worker-295: Launching QuestionTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laure\OneDrive - Idest Soft\Desktop\QA\JAVA SYNTAX\WEEK 2\ForkedMaven\TDD-Ex\src\test\resources
+2021-09-20 17:27:45,924 [Worker-298: Launching QuestionTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-20 17:27:45,925 [Worker-298: Launching QuestionTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laure\OneDrive - Idest Soft\Desktop\QA\JAVA SYNTAX\WEEK 2\ForkedMaven\TDD-Ex\src\main\resources
+2021-09-20 17:27:45,927 [Worker-298: Launching QuestionTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-20 17:27:45,928 [Worker-298: Launching QuestionTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laure\OneDrive - Idest Soft\Desktop\QA\JAVA SYNTAX\WEEK 2\ForkedMaven\TDD-Ex\src\test\resources
+2021-09-20 17:31:07,766 [Worker-294: Launching QuestionTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-20 17:31:07,768 [Worker-294: Launching QuestionTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laure\OneDrive - Idest Soft\Desktop\QA\JAVA SYNTAX\WEEK 2\ForkedMaven\TDD-Ex\src\main\resources
+2021-09-20 17:31:07,770 [Worker-294: Launching QuestionTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-20 17:31:07,771 [Worker-294: Launching QuestionTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laure\OneDrive - Idest Soft\Desktop\QA\JAVA SYNTAX\WEEK 2\ForkedMaven\TDD-Ex\src\test\resources
+2021-09-20 17:32:53,079 [Worker-298: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-20 17:32:53,081 [Worker-298: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laure\OneDrive - Idest Soft\Desktop\QA\JAVA SYNTAX\WEEK 2\ForkedMaven\TDD-Ex\src\main\resources
+2021-09-20 17:32:53,082 [Worker-298: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-20 17:32:53,082 [Worker-298: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laure\OneDrive - Idest Soft\Desktop\QA\JAVA SYNTAX\WEEK 2\ForkedMaven\TDD-Ex\src\test\resources
+2021-09-20 17:32:56,952 [Worker-301: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-20 17:32:56,953 [Worker-301: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laure\OneDrive - Idest Soft\Desktop\QA\JAVA SYNTAX\WEEK 2\ForkedMaven\TDD-Ex\src\main\resources
+2021-09-20 17:32:56,955 [Worker-301: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-20 17:32:56,955 [Worker-301: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laure\OneDrive - Idest Soft\Desktop\QA\JAVA SYNTAX\WEEK 2\ForkedMaven\TDD-Ex\src\test\resources
+2021-09-20 17:37:40,607 [Worker-303: Launching QuestionTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-20 17:37:40,608 [Worker-303: Launching QuestionTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laure\OneDrive - Idest Soft\Desktop\QA\JAVA SYNTAX\WEEK 2\ForkedMaven\TDD-Ex\src\main\resources
+2021-09-20 17:37:40,626 [Worker-303: Launching QuestionTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-20 17:37:40,626 [Worker-303: Launching QuestionTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laure\OneDrive - Idest Soft\Desktop\QA\JAVA SYNTAX\WEEK 2\ForkedMaven\TDD-Ex\src\test\resources
+2021-09-20 17:38:04,399 [Worker-305: Launching QuestionTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-20 17:38:04,400 [Worker-305: Launching QuestionTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laure\OneDrive - Idest Soft\Desktop\QA\JAVA SYNTAX\WEEK 2\ForkedMaven\TDD-Ex\src\main\resources
+2021-09-20 17:38:04,401 [Worker-305: Launching QuestionTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-20 17:38:04,401 [Worker-305: Launching QuestionTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laure\OneDrive - Idest Soft\Desktop\QA\JAVA SYNTAX\WEEK 2\ForkedMaven\TDD-Ex\src\test\resources
+2021-09-20 17:38:58,730 [Worker-304: Launching QuestionTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-20 17:38:58,731 [Worker-304: Launching QuestionTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laure\OneDrive - Idest Soft\Desktop\QA\JAVA SYNTAX\WEEK 2\ForkedMaven\TDD-Ex\src\main\resources
