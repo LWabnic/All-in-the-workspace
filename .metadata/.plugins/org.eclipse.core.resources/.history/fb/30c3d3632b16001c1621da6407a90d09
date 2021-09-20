@@ -1,0 +1,15 @@
+package co.uk.idestsoft;
+
+public class StringsManipulation {
+
+	public static void method1() {
+		String first="yesterday it was raining";
+		String second="today it is sunny";
+		
+		String mix = (second+", "+first).toUpperCase();
+		System.out.println(mix);
+		String news=mix.replace(mix.substring(12,35), "");
+		
+		System.out.println(news);
+	}
+}

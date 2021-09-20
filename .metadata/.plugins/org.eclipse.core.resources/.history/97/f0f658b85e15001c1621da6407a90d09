@@ -1,0 +1,45 @@
+package co.uk.idestsoft;
+
+public class BlackJack {
+
+	public static int game(int card1,int card2) {
+		
+//		int c1=21-card1;
+//		int c2=21-card2;
+//		
+//		if(card1>21 && )
+//		if(c1<=0 && c2<=0){
+//			return 0;}
+//		else {
+//
+//			if(c1>c2 && card2>0) {
+//				return card2;
+//			}
+//			else {
+//			return card1;
+		 if (card1>21)
+		 {
+			 if (card2<21)
+			 {
+				 System.out.println(card2);
+			 }
+		 }
+		 else if(card2>21)
+		 {
+			 if (card1<21)
+			 {
+				 System.out.println(card1);
+			 }
+		 }
+		 else {
+			 if(card1==card2 && card1>21 && card2>21) {
+				 return 0;
+			 }
+				 
+		 }
+		
+		
+		
+	
+}
+}

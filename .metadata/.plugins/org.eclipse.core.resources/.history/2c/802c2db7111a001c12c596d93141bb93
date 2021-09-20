@@ -1,0 +1,5 @@
+package vendormachine.users.util;
+
+public @interface Before {
+
+}

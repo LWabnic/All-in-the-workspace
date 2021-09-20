@@ -1,0 +1,17 @@
+package co.uk.idestsoft;
+
+public class BlackJack {
+
+	public static int game(int card1,int card2) {
+		
+if(card1>card2)
+{
+	return card2;
+}
+else
+{
+	return card1;
+}
+	
+	}
+}

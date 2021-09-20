@@ -1,0 +1,20 @@
+package co.uk.idestsoft;
+
+public class Numbers {
+
+	public static int method1(int input){
+		Integer output = input;
+		String numbers = output.toString();
+		int mySum=0;
+		
+		for (int i=0;i<numbers.length();i++) 
+		{
+			char c=numbers.charAt(i);
+			
+			 mySum+= Character.getNumericValue(c);
+		}
+		
+		return mySum;
+	}
+	
+}

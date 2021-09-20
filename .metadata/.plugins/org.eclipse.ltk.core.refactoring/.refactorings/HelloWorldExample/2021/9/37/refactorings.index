@@ -1,0 +1,10 @@
+1631538804457	Infer generic type arguments
+1631538960996	Copy compilation unit
+1631539011531	Move compilation unit
+1631628042228	Rename local variable 'card1'
+1631628055031	Rename local variable 'card2'
+1631703572774	Rename compilation unit 'ArrayList.java'
+1631703884832	Delete element
+1631704082968	Delete element
+1631885998012	Rename package 'Scanner'
+1631888595608	Rename type 'Calculator'

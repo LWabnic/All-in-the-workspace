@@ -1,0 +1,12 @@
+package junitTesting;
+
+import org.junit.Test;
+
+public class AnnotanionExampleTest {
+
+	@Test
+	public void test() {
+		System.out.println("Test 1");
+	}
+	
+}

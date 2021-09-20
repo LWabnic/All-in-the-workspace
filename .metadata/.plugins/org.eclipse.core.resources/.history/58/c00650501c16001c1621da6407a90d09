@@ -1,0 +1,15 @@
+package co.uk.idestsoft;
+import java.util.ArrayList;
+import java.util.List;
+
+public class ArrayListsExcerises {
+	
+	
+	public static void method1(){
+		final List<String> meat = new ArrayList<>();
+		meat.add("beef");
+		meat.add("poultry");
+		meat.add("lamb");
+	}
+	
+}

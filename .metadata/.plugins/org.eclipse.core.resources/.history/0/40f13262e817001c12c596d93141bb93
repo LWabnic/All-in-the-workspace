@@ -1,0 +1,23 @@
+package logistics;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Loading {
+
+	public static void Arrange(){
+		
+		double[] orders= {100,234.56,349.90,630.34,56.78,123.45,459.43,240.32};
+		
+		int[]ord= {1,2,3,4,5};
+		int howLong = orders.length-1;
+		
+		for(int i=howLong;i>=0;i--)
+		{
+			System.out.println(orders[i]);
+		}
+	}
+	
+	
+	
+}

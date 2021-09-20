@@ -1,0 +1,28 @@
+package co.uk.idestsoft;
+
+public class Taxes {
+
+	public static void method1(float salary) {
+		if(salary>45000)
+		{
+			System.out.println(25+"%");
+		}
+		else if(salary<45000)
+		{
+			System.out.println(20+"%");
+		}
+		else if(salary<30000)
+		{
+			System.out.println(15+"%");
+		}
+		else if(salary>20000)
+		{
+			System.out.println(10+"%");
+		}
+		else if(salary>15000)
+		{
+			System.out.println(0+"%");
+		}
+		
+	}
+}

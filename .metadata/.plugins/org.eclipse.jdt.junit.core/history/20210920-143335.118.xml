@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="WalletTEST" project="vendormachine" tests="4" started="4" failures="0" errors="0" ignored="0">
+  <testsuite name="vendormachine.users.util.WalletTEST" time="0.042" displayname="WalletTEST" uniqueid="[engine:junit-jupiter]/[class:vendormachine.users.util.WalletTEST]">
+    <testcase name="getAndSetCreditTestFalse" classname="vendormachine.users.util.WalletTEST" time="0.035" displayname="getAndSetCreditTestFalse()" uniqueid="[engine:junit-jupiter]/[class:vendormachine.users.util.WalletTEST]/[method:getAndSetCreditTestFalse()]"/>
+    <testcase name="getAllCredit" classname="vendormachine.users.util.WalletTEST" time="0.001" displayname="getAllCredit()" uniqueid="[engine:junit-jupiter]/[class:vendormachine.users.util.WalletTEST]/[method:getAllCredit()]"/>
+    <testcase name="addCrediFalse" classname="vendormachine.users.util.WalletTEST" time="0.002" displayname="addCrediFalse()" uniqueid="[engine:junit-jupiter]/[class:vendormachine.users.util.WalletTEST]/[method:addCrediFalse()]"/>
+    <testcase name="addCreditTestTrue" classname="vendormachine.users.util.WalletTEST" time="0.0" displayname="addCreditTestTrue()" uniqueid="[engine:junit-jupiter]/[class:vendormachine.users.util.WalletTEST]/[method:addCreditTestTrue()]"/>
+  </testsuite>
+</testrun>

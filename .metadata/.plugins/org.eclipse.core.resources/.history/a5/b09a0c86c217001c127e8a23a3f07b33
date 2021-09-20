@@ -1,0 +1,9 @@
+package scanner;
+import java.util.Scanner;
+
+public class Runner {
+
+	Menu mn = new Menu();
+	mn.menu();
+	
+}

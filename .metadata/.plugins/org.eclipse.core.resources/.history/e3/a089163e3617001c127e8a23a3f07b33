@@ -1,0 +1,47 @@
+package oopExcercises;
+
+public class Runner {
+
+	public static void main(String[] args) {
+
+//		Encapsulation emp = new Encapsulation();
+//		emp.setDaysInEmployment(36);
+//		emp.setDaysInEmployment(12345);
+//		emp.setName("Luke Wabnic");
+//		emp.setHolidays(34.56f);
+//		emp.setSalary(47000.00);
+//		
+//		System.out.println(emp.getAge()+" "+emp.getDaysInEmployment()+" "+emp.getHolidays()+" "+emp.getName()+" "+emp.getSalary());
+//		
+//		
+//		System.out.println(emp.toString());
+		
+		Person me = new Person("Mike", 34);
+		me.eat();
+		me.sleep();
+		me.setName("Not Mike");
+		
+		Banker joe = new Banker("Joe",34,"Grey", 1000);
+		joe.eat();
+		joe.sleep();
+		joe.countingMoney();
+		
+		Banker def = new Banker("def", 100);
+		def.sleep();
+		def.eat();
+		
+		
+		Farmer donald = new Farmer("Donald",40,"Red",5);
+		
+		donald.eat();
+		donald.sleep();
+		donald.countingSheep();
+		
+		System.out.println(me.toString());
+		System.out.println(joe.toString());
+		System.out.println(donald.toString());
+		
+
+	}
+
+}

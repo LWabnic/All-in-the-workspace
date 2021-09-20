@@ -1,0 +1,59 @@
+package co.uk.idestsoft;
+
+public class DataTypeExercise {
+	public static void main(String[] args) {
+		
+//		int number=0;
+//		char letter='A';
+//		String txt="Abc";
+//		float xyz = 12.0f;
+//		
+//		System.out.println(number + " " +letter + " " +txt);
+//		System.out.println(myNum(1));
+//		
+//		System.out.println(((Object)xyz).getClass().getSimpleName());
+		
+		//Result.method1(60,60,60,100);
+		//Result.method2(150,150,150);
+//		System.out.println(FlowChart.method1(2, 3, true));
+		
+		//System.out.println(Numbers.method1(111));
+		//FlowChartIteration.method1();
+		FlowChartIteration.method3();
+	}
+
+//	public static int myNum(int num) {
+//		
+//		
+//		return num;
+//	}
+//	
+//	public static int addition(int first,int second) {
+//		
+//			return first + second;
+//		
+//	}
+//	
+//	public static double mul(double first,double second) {
+//		return first * second;
+//	}
+//	
+//	public static double sub(double first,double second) {
+//		return first - second;
+//	}
+//	
+//	public static double div(double first,double second) {
+//		if (first>second) {
+//		return first / second;
+//		}
+//		else System.out.println("Division cannot be performed");
+//				return 0.00;
+//	}
+
+	
+	
+	
+	
+}
+
+

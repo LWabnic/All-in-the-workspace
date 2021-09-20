@@ -1,0 +1,12 @@
+package co.uk.idestsoft;
+import java.util.ArrayList;
+import java.util.List;
+
+
+public class ArrListEx {
+ 
+	public static void method{
+		public List<String> meat = new ArrayList<>();
+		meat.add("beef");
+	}}
+	

@@ -1,0 +1,21 @@
+package oopExcercises;
+
+public class Runner {
+
+	public static void main(String[] args) {
+
+		Encapsulation emp = new Encapsulation();
+		emp.setDaysInEmployment(36);
+		emp.setDaysInEmployment(12345);
+		emp.setName("Luke Wabnic");
+		emp.setHolidays(34.56f);
+		emp.setSalary(47000.00);
+		
+		emp.getAge();
+		
+		
+		System.out.println(emp.toString());
+
+	}
+
+}

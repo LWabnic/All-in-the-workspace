@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;DataTypeExercise.java&apos; to &apos;HelloWorldExample/src/co.uk.idestsoft&apos;&#x0D;&#x0A;- Original project: &apos;DataTypes&apos;&#x0D;&#x0A;- Destination element: &apos;HelloWorldExample/src/co.uk.idestsoft&apos;&#x0D;&#x0A;- Original element: &apos;DataTypeExercise.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=HelloWorldExample/src&lt;co.uk.idestsoft" element1="/src&lt;{DataTypeExercise.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1631542901921" units="1" version="1.0"/>
+</session>

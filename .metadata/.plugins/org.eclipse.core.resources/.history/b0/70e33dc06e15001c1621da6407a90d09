@@ -1,0 +1,26 @@
+package co.uk.idestsoft;
+
+public class FlowChartIteration {
+	public static void method1() {
+		int a=100;
+		for(int i=100;i<201;i++) {
+			
+			System.out.println(a++);
+		}
+	}
+	
+	public static void method2() {
+		int a=100;
+		
+		for(int i=100;i<=200;i++) {
+			if(a%2==0) {
+				System.out.println("-");
+			}
+			else {
+				System.out.println("*");
+			}
+			a++;
+		}
+	}
+
+}
