@@ -1,0 +1,9 @@
+package garageChallenge;
+
+public class Vehicle {
+
+	private String brand;
+	private String type;
+	private int numOfWheels;
+	private double price;
+}

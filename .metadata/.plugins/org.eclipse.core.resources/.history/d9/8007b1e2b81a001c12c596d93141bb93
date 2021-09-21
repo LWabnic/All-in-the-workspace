@@ -1,0 +1,14 @@
+package garageChallenge;
+
+public class Bike extends Vehicle {
+
+	public int getEngineSizeCC() {
+		return engineSizeCC;
+	}
+
+	public void setEngineSizeCC(int engineSizeCC) {
+		this.engineSizeCC = engineSizeCC;
+	}
+
+	private int engineSizeCC;
+}

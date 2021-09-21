@@ -1,0 +1,15 @@
+package garageChallenge;
+
+public class Lorry extends Vehicle {
+
+	private int maxTonnage;
+
+	public int getMaxTonnage() {
+		return maxTonnage;
+	}
+
+	public void setMaxTonnage(int maxTonnage) {
+		this.maxTonnage = maxTonnage;
+	}
+	
+}

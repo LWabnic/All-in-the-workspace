@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="QuestionTest" project="testdrivendevelopment" tests="11" started="11" failures="0" errors="0" ignored="0">
+  <testsuite name="com.qa.testdrivendevelopment.QuestionTest" time="0.0">
+    <testcase name="multiCharTest" classname="com.qa.testdrivendevelopment.QuestionTest" time="0.0"/>
+    <testcase name="largestTest" classname="com.qa.testdrivendevelopment.QuestionTest" time="0.0"/>
+    <testcase name="endsJavaTest" classname="com.qa.testdrivendevelopment.QuestionTest" time="0.0"/>
+    <testcase name="greetingExampleTest" classname="com.qa.testdrivendevelopment.QuestionTest" time="0.0"/>
+    <testcase name="fizzBuzzTest" classname="com.qa.testdrivendevelopment.QuestionTest" time="0.0"/>
+    <testcase name="comparesTest" classname="com.qa.testdrivendevelopment.QuestionTest" time="0.0"/>
+    <testcase name="superBlockTest" classname="com.qa.testdrivendevelopment.QuestionTest" time="0.0"/>
+    <testcase name="sandwichFillingTest" classname="com.qa.testdrivendevelopment.QuestionTest" time="0.0"/>
+    <testcase name="evenlySpacedTest" classname="com.qa.testdrivendevelopment.QuestionTest" time="0.0"/>
+    <testcase name="nMidTest" classname="com.qa.testdrivendevelopment.QuestionTest" time="0.0"/>
+    <testcase name="amISearchTest" classname="com.qa.testdrivendevelopment.QuestionTest" time="0.0"/>
+  </testsuite>
+</testrun>
