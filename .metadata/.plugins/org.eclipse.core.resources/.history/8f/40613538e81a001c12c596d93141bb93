@@ -1,0 +1,32 @@
+package hashSets;
+
+import java.util.HashSet;
+import java.util.Set;
+
+public class Runner {
+
+	public static void main(String[] args) {
+		
+		//HashSet<String> hashSet=new HashSet<>(Set.of("X","Y"));
+		
+		Set<String> hashSet=new HashSet<>(Set.of("X","Y"));
+		
+		hashSet.add("A");
+		hashSet.add("A");
+		hashSet.add("A");
+		
+		System.out.println(hashSet);
+		System.out.println(hashSet.size());
+		System.out.println(hashSet.isEmpty());
+		hashSet.remove("X");
+		System.out.println(hashSet);
+		System.out.println(hashSet.contains("A"));
+//		hashSet.clear();
+//		System.out.println(hashSet);
+		
+		for(String handle:hashSet) {
+			System.out.println(handle);
+		}
+	}
+
+}
