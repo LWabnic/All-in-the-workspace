@@ -1,0 +1,9 @@
+package Adapters;
+
+public class IncompatiblePlug {
+
+	public void iHave2pins() {
+		
+		System.out.println("Sorry I have only 2 pins");
+	}
+}

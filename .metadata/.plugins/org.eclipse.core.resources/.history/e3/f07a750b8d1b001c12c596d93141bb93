@@ -1,0 +1,8 @@
+package exceptions;
+
+public class CustomException extends ArithmeticException {
+
+	public CustomException(String string) {
+		super("Can't divide by larger number"+string);
+	}
+}

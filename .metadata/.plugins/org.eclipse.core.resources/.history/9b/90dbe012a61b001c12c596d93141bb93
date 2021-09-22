@@ -1,0 +1,16 @@
+package Adapters;
+
+public class AdapterClass implements PlugSocket{
+
+	IncompatiblePlug twoPin;
+	
+	public AdapterClass(IncompatiblePlug twoPin) {
+		
+		this.twoPin=twoPin;
+	}
+	
+	public void InsertThe3pinPlug() {
+		
+		twoPin.iHave2pins();
+	}
+}

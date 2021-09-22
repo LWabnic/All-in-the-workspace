@@ -1,0 +1,21 @@
+package designPatterns;
+
+public class Singleton {
+
+	private static Singleton INSTANCE;
+	private String info="Some info";
+	
+	private Singleton() {
+		
+	}
+
+	public String getInfo() {
+		return info;
+	}
+
+	public void setInfo(String info) {
+		this.info = info;
+	}
+	
+	
+}
