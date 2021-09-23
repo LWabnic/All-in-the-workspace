@@ -5,7 +5,6 @@ INDEX VERSION 1.131+C:\Users\laure\eclipse-workspace\.metadata\.plugins\org.ecli
 1238194784.index
 3231286391.index
 2191681369.index
-878328056.index
 1599827498.index
 448838082.index
 1510347178.index

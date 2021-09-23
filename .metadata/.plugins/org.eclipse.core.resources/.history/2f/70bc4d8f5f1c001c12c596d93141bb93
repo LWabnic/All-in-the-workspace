@@ -1,0 +1,11 @@
+package solid;
+
+public class Runner {
+
+	FormalGreeting fg = new FormalGreeting();
+	CasualGreeting cg = new CasualGreeting();
+	
+	Greeter gr = new Greeter(fg);
+	
+	gr.
+}

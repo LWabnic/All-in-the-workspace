@@ -1,0 +1,13 @@
+package enums;
+
+public class Runner {
+
+public static void main(String[] args) {
+//System.out.println(EnumsExamples.MON.getWeekDay());
+	
+	 for(Directions d : Directions.values()) {
+        System.out.println(d.values());
+     }
+	
+}
+}

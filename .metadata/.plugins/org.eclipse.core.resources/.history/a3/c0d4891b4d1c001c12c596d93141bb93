@@ -1,0 +1,16 @@
+package enums;
+
+public enum Directions {
+
+	NORTH("N","Forward"),
+	EAST("E","Right"),
+	SOUTH("S","Backward"),
+	WEST("W","Left");
+
+	Directions(String Abrev, String Motion) {
+		// TODO Auto-generated constructor stub
+	}
+	
+	
+	
+}
