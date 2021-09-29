@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="CalculatorTest" project="dfe-junit" tests="4" started="4" failures="0" errors="0" ignored="0">
-  <testsuite name="junitTesting.CalculatorTest" time="0.0">
-    <testcase name="subTest" classname="junitTesting.CalculatorTest" time="0.0"/>
-    <testcase name="ConditionalTrueTest" classname="junitTesting.CalculatorTest" time="0.0"/>
-    <testcase name="addTest" classname="junitTesting.CalculatorTest" time="0.0"/>
-    <testcase name="ConditionalFalseTest" classname="junitTesting.CalculatorTest" time="0.0"/>
-  </testsuite>
-</testrun>

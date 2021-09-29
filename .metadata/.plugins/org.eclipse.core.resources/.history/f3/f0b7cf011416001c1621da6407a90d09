@@ -1,8 +1,0 @@
-package co.uk.idestsoft;
-
-import java.util.ArrayList;
-import java.util.List;
-
-public class ArrayLists {
-	 public List<String> meat = new ArrayList<>();
-}

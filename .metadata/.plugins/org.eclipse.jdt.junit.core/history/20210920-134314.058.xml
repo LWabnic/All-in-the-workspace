@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="BlackJackTest" project="dfe-junit" tests="5" started="5" failures="0" errors="0" ignored="0">
-  <testsuite name="junitTesting.BlackJackTest" time="0.0">
-    <testcase name="DrawTest" classname="junitTesting.BlackJackTest" time="0.0"/>
-    <testcase name="playerWinsTest" classname="junitTesting.BlackJackTest" time="0.0"/>
-    <testcase name="DealerWinsTest" classname="junitTesting.BlackJackTest" time="0.0"/>
-    <testcase name="ZeroTest" classname="junitTesting.BlackJackTest" time="0.0"/>
-    <testcase name="dealerAndPlayerLoseTest" classname="junitTesting.BlackJackTest" time="0.0"/>
-  </testsuite>
-</testrun>

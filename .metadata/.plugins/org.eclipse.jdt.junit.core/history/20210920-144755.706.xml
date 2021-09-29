@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="WalletTEST.WalletTest1" project="vendormachine" tests="1" started="1" failures="0" errors="0" ignored="0">
-  <testsuite name="vendormachine.users.util.WalletTEST" time="0.04" displayname="WalletTEST" uniqueid="[engine:junit-jupiter]/[class:vendormachine.users.util.WalletTEST]">
-    <testcase name="WalletTest1" classname="vendormachine.users.util.WalletTEST" time="0.04" displayname="WalletTest1()" uniqueid="[engine:junit-jupiter]/[class:vendormachine.users.util.WalletTEST]/[method:WalletTest1()]"/>
-  </testsuite>
-</testrun>

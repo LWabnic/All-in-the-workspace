@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="WalletTEST" project="vendormachine" tests="2" started="2" failures="0" errors="0" ignored="0">
-  <testsuite name="vendormachine.users.util.WalletTEST" time="0.069" displayname="WalletTEST" uniqueid="[engine:junit-jupiter]/[class:vendormachine.users.util.WalletTEST]">
-    <testcase name="addCreditTestFalse" classname="vendormachine.users.util.WalletTEST" time="0.066" displayname="addCreditTestFalse()" uniqueid="[engine:junit-jupiter]/[class:vendormachine.users.util.WalletTEST]/[method:addCreditTestFalse()]"/>
-    <testcase name="addCreditTestTrue" classname="vendormachine.users.util.WalletTEST" time="0.001" displayname="addCreditTestTrue()" uniqueid="[engine:junit-jupiter]/[class:vendormachine.users.util.WalletTEST]/[method:addCreditTestTrue()]"/>
-  </testsuite>
-</testrun>
