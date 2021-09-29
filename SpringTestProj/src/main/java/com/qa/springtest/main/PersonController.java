@@ -124,5 +124,10 @@ public class PersonController {
 	public ResponseEntity<Boolean> deleteR(@PathVariable Long id){
 		return new ResponseEntity<Boolean>(this.service.deleteId(id),HttpStatus.NO_CONTENT);
 	}
+	//Find by name
+	@GetMapping("/readname/{name}")
+	public ResponseEntity<List<Person>>findByName(@PathVariable String name){
+		return new ResponseEntity<List<Person>>(this.service.findByName(name),HttpStatus.OK);
+	}
 	
 }
